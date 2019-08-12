@@ -1,0 +1,5 @@
+
+ help - shows this text
+ optimize - optimizes your OS
+ printer - shows the printer queue (zsseberov)
+ web - launches Chrome
