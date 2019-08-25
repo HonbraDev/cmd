@@ -28,7 +28,7 @@ echo                                    NMMMMMs`
 echo                                    dMMMm:                                                           
 echo                                    `/+:                                                             
 echo.
-echo  Dobry den, %username%, zadejte prikaz:				      (pro prikazy napiste "help")
+echo  Hello, %username%, enter a command:
 echo.
 set h=null
 set /p h="> "
