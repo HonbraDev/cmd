@@ -1,7 +1,7 @@
 @echo off
 set v=3.1 GitHub Release
 :start
-::mode con:cols=35 lines=3
+mode con:cols=100 lines=27
 title Honbra's CMD %v%
 cls
 echo.
@@ -27,6 +27,9 @@ echo                                    NMMMMMMm:
 echo                                    NMMMMMs`                                                         
 echo                                    dMMMm:                                                           
 echo                                    `/+:                                                             
+echo.
+echo  Dobry den, %username%, zadejte prikaz:				      (pro prikazy napiste "help")
+echo.
 set h=null
 set /p h="> "
 if exist "%h%.bat" "%h%.bat"
