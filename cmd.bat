@@ -1,8 +1,7 @@
 @echo off
-set v=3.0 GitHub
-cd "%userprofile%\Disk Google\cmd"
+set v=3.1 GitHub Release
 :start
-mode con:cols=35 lines=3
+::mode con:cols=35 lines=3
 title Honbra's CMD %v%
 cls
 echo.
