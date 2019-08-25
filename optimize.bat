@@ -5,9 +5,9 @@ mode con:cols=59 lines=5
 echo.
 echo  Press any key to optimize...
 echo.
-echo  Note: For best results run this with administrator access
+echo  Note: For best results run this with administrator privillages
 pause>nul
-start cmd.exe "%~f0"
+start optimize.bat worker
 goto done
 :worker
 title Optimizer - Working
