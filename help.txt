@@ -1,5 +1,5 @@
 
  help - shows this text
- optimize - optimizes your OS
+ tempdel - temporary files deleter
  printer - shows the printer queue (zsseberov)
  web - launches Chrome
