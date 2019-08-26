@@ -1,5 +1,5 @@
 @echo off
-set v=3.1 GitHub Release
+set v=3.2 GitHub Release
 :start
 mode con:cols=100 lines=27
 title Honbra's CMD %v%
