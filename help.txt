@@ -3,3 +3,4 @@
  tempdel - temporary files deleter
  printer - shows the printer queue (zsseberov)
  web - launches Chrome
+ mscmd - original cmd backdoor for schools
