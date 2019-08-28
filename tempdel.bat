@@ -1,13 +1,13 @@
 @echo off
 if "%1" == "worker" goto worker
 title Temporary files deleter - Idle
-mode con:cols=59 lines=5
+mode con:cols=64 lines=5
 echo.
 echo  Press any key to optimize...
 echo.
 echo  Note: For best results run this with administrator privillages
 pause>nul
-start optimize.bat worker
+start tempdel.bat worker
 goto done
 :worker
 title Temporary files deleter - Working
