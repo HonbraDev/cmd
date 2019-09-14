@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Honbra's CMD
 description: My own custom command prompt interface
+logo: http://honbraofficial.github.io/projects/cmd_screenshot.png
 show_downloads: true
