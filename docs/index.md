@@ -2,6 +2,8 @@
 Welcome to the homepage of my project!
 It's a platform for custom command prompt commands.
 
+* * *
+
 # Update notes
 
 ## Update 1.4
