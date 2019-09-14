@@ -1,7 +1,7 @@
 # Update notes
 
 ## Update 1.4
-* Fixed tempdel
+* Fixed tempdel *
 ## Update 1.3
 * Added mscmd (original cmd backdoor for schools)
 ## Update 1.2
