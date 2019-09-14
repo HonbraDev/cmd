@@ -1,3 +1,6 @@
+# Home
+Welcome to the homepage of my project!
+
 # Update notes
 
 ## Update 1.4
