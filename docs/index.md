@@ -1,4 +1,4 @@
-# Home
+# Honbra's CMD
 Welcome to the homepage of my project!
 It's a platform for custom command prompt commands.
 
@@ -28,4 +28,4 @@ It's a platform for custom command prompt commands.
 * * *
 
 # Old web
-My old web (which is no longer updated) is accesable [here](http://honbraofficial.github.io/projects/cmd.html)
+My old web (which is no longer updated) is accesible [here](http://honbraofficial.github.io/projects/cmd.html)
