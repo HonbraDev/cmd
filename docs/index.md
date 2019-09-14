@@ -25,5 +25,7 @@ It's a platform for custom command prompt commands.
 * Added optimize
 * Removed old features / commands, because I lost the files :(
 
+* * *
+
 # Old web
 My old web (which is no longer updated) is accesable [here](http://honbraofficial.github.io/projects/cmd.html)
