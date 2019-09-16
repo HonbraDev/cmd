@@ -8,6 +8,7 @@ It's a platform for custom command prompt commands.
 
 ## Update 1.5
 * 100× better mscmd that actually works
+* started using GitHub releases
 
 ## Update 1.4
 * Fixed tempdel
