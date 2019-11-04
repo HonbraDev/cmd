@@ -5,7 +5,7 @@ A platform for custom command prompt commands.
 # Update notes
 
 ## Update 1.5
-* 100× better mscmd that actually works
+* 100× better mscmd that works
 * started using GitHub releases
 
 ## Update 1.4
@@ -25,9 +25,9 @@ A platform for custom command prompt commands.
 * New help feature is no longer in notepad, but in the program directly
 * Custom window resize
 * Added optimize
-* Removed old features / commands, because I lost the files :(
+* Removed old features/commands, because I lost the files :(
 
 * * *
 
 # Old web
-My old web (which is no longer updated) is accesible [here](http://honbraofficial.github.io/projects/cmd.html)
+My old web (which is no longer updated) is accessible [here](http://honbraofficial.github.io/projects/cmd.html)
