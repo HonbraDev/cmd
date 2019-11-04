@@ -1,7 +1,5 @@
 # Honbra's CMD
-Welcome to the homepage of my project!
-It's a platform for custom command prompt commands.
-
+A platform for custom command prompt commands.
 * * *
 
 # Update notes
